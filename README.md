@@ -1,1 +1,1 @@
-Basic Project
+Basic project using javascript. 
